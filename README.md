@@ -5,4 +5,4 @@
 
 
 ## Debug:
-Para realizar prints de debug, alterar a variável `L_DEBUG para 1, presente no linklayer.h
+Para realizar prints de debug, alterar a variável `L_DEBUG` para 1, presente no linklayer.h
